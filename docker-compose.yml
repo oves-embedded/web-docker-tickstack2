@@ -87,9 +87,3 @@ services:
       - './node_red_data:/data'
     ports:
       - 1880:1880
-      ##### KAPACITOR
-  # kapacitor:
-  #   image: kapacitor
-  #   container_name: kapacitor
-  #   environment:
-  #     - KAPACITOR_INFLUXDB_0_URLS_0=http://influxdb:8086
