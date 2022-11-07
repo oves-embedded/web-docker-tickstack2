@@ -30,3 +30,58 @@
 1667809527: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
 1667809537: Client mqtt-explorer-efae9b7a disconnected.
 1667810900: mosquitto version 1.4.15 terminating
+1667810904: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667810904: Config loaded from /mqtt/config/mosquitto.conf.
+1667810904: Opening ipv4 listen socket on port 1884.
+1667810904: Opening ipv6 listen socket on port 1884.
+1667810904: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667810904: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667810907: New connection from 172.18.0.7 on port 1884.
+1667810907: New client connected from 172.18.0.7 as Telegraf-Consumer-43zhe (c1, k60).
+1667810953: New connection from 172.18.0.1 on port 1884.
+1667810953: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667810956: Client mqtt-explorer-efae9b7a disconnected.
+1667810959: New connection from 172.18.0.1 on port 1884.
+1667810959: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667810970: Client mqtt-explorer-efae9b7a disconnected.
+1667810974: New connection from 172.18.0.1 on port 1884.
+1667810974: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667810991: Client mqtt-explorer-efae9b7a disconnected.
+1667811026: New connection from 172.18.0.1 on port 1884.
+1667811026: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667811124: Client mqtt-explorer-efae9b7a disconnected.
+1667811126: New connection from 172.18.0.1 on port 1884.
+1667811126: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667811130: Client mqtt-explorer-efae9b7a disconnected.
+1667812704: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667812897: New connection from 172.18.0.1 on port 1884.
+1667812897: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667812940: mosquitto version 1.4.15 terminating
+1667812945: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667812945: Config loaded from /mqtt/config/mosquitto.conf.
+1667812945: Opening ipv4 listen socket on port 1884.
+1667812945: Opening ipv6 listen socket on port 1884.
+1667812945: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1884)
+1667812950: New connection from 172.18.0.7 on port 1884.
+1667812950: New client connected from 172.18.0.7 as Telegraf-Consumer-pbSY9 (c1, k60).
+1667812950: New connection from 172.18.0.1 on port 1884.
+1667812950: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667812976: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1884)
+1667813543: mosquitto version 1.4.15 terminating
+1667813547: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667813547: Config loaded from /mqtt/config/mosquitto.conf.
+1667813547: Opening ipv4 listen socket on port 1884.
+1667813547: Opening ipv6 listen socket on port 1884.
+1667813547: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1888)
+1667813548: New connection from 172.18.0.1 on port 1884.
+1667813548: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667813552: New connection from 172.18.0.7 on port 1884.
+1667813552: New client connected from 172.18.0.7 as Telegraf-Consumer-fUD9t (c1, k60).
+1667813578: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1888)
+1667813670: Client mqtt-explorer-efae9b7a disconnected.
+1667813672: New connection from 172.18.0.1 on port 1884.
+1667813672: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667813745: Client mqtt-explorer-efae9b7a disconnected.
+1667813746: New connection from 172.18.0.1 on port 1884.
+1667813746: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667813937: mosquitto version 1.4.15 terminating
