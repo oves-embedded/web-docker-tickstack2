@@ -1,0 +1,32 @@
+1667805761: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667805761: Config loaded from /mqtt/config/mosquitto.conf.
+1667805761: Opening ipv4 listen socket on port 1884.
+1667805761: Opening ipv6 listen socket on port 1884.
+1667805761: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667805763: New connection from 172.18.0.7 on port 1884.
+1667805763: New client connected from 172.18.0.7 as Telegraf-Consumer-F5N0D (c1, k60).
+1667805763: Client Telegraf-Consumer-F5N0D disconnected.
+1667805766: New connection from 172.18.0.7 on port 1884.
+1667805766: New client connected from 172.18.0.7 as Telegraf-Consumer-3wcuX (c1, k60).
+1667805792: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667805880: mosquitto version 1.4.15 terminating
+1667805882: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667805882: Config loaded from /mqtt/config/mosquitto.conf.
+1667805882: Opening ipv4 listen socket on port 1884.
+1667805882: Opening ipv6 listen socket on port 1884.
+1667805882: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1884)
+1667805885: New connection from 172.18.0.7 on port 1884.
+1667805885: New client connected from 172.18.0.7 as Telegraf-Consumer-FM7fw (c1, k60).
+1667805913: Connecting bridge new-ovves-bridge (mqtt-2.omnivoltaic.com:1884)
+1667806343: New connection from 172.18.0.1 on port 1884.
+1667806343: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667806355: Client mqtt-explorer-efae9b7a disconnected.
+1667806357: New connection from 172.18.0.1 on port 1884.
+1667806357: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667806376: Client mqtt-explorer-efae9b7a disconnected.
+1667807683: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667809484: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667809527: New connection from 172.18.0.1 on port 1884.
+1667809527: New client connected from 172.18.0.1 as mqtt-explorer-efae9b7a (c1, k60).
+1667809537: Client mqtt-explorer-efae9b7a disconnected.
+1667810900: mosquitto version 1.4.15 terminating
