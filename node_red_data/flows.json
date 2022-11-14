@@ -167,7 +167,7 @@
         "name": "",
         "broker": "mqtt-2.omnivoltaic.com",
         "port": "8883",
-        "tls": "e3107d5c366e12e5",
+        "tls": "482a295faf261183",
         "clientid": "",
         "autoConnect": true,
         "usetls": true,
@@ -186,6 +186,7 @@
         "willQos": "0",
         "willPayload": "",
         "willMsg": {},
+        "userProps": "",
         "sessionExpiry": ""
     },
     {
@@ -442,7 +443,7 @@
             },
             {
                 "p": "topic",
-                "v": "$join(['dt/ov01/GPRS/', 'MISC2111000008/6181496185b08633905f8988'])",
+                "v": "$join(['dt/V01/GPRSV2/', 'AH122211000037'])",
                 "vt": "jsonata"
             }
         ],
@@ -451,7 +452,7 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "{\t   \"att\":{\t       \"opid\":\"MISC2111000008\",\t       \"ppid\":\"MISC2111000008\",\t       \"flid\":\"6181496185b08633905f8988\",\t       \"frmv\":\"3.1.2\"\t   },\t   \"cmd\" : {\t       \"pubk\" : \"*042 195 826 493 279 052 222#\",\t       \"gstw\" : 480,\t       \"gctw\" : 10,\t       \"napn\" : \"t-mobile,xxxxxxx\",\t       \"swch\" : \"On\",\t       \"read\" : \"42AH2210000010\",\t       \"rptm\" : \"Rpt mode\",\t       \"hbfq\" : 60\t\t},\t   \"sts\":{\t       \"time\":202100010001,\t       \"udtm\":202100010001,\t       \"crtm\":202100010001,\t       \"gpss\" : 4,\t       \"gpfc\" : 100,\t       \"plat\":-1.286389,\t       \"plon\":36.817223,\t       \"rcrd\":16+$floor($random()*10),\t       \"trhd\":99+$floor($random()*100),\t       \"tpgd\":69+$floor($random()*1000),\t       \"pgst\":1\t   },\t   \"dta\":{\t       \"aeng\" : 3177+$floor($random()*1000),\t       \"acyc\" : 13+$floor($random()*1000),\t       \"batp\":100+$floor($random()*1000),\t       \"inpp\":200+$floor($random()*1000),\t       \"outp\":100+$floor($random()*1000),\t       \"pckv\":23200+$floor($random()*1000),\t       \"pckc\":6+$floor($random()*1000),\t       \"rsoc\":90+$floor($random()*1000),\t       \"rcap\":4+$floor($random()*1000),\t       \"fccp\":17904+$floor($random()*1000),\t       \"pckt\":110+$floor($random()*1000)\t   },\t   \"dia\" : {\t       \"cv01\" : 3189+$floor($random()*1000),\t       \"cv02\" : 3189+$floor($random()*1000),\t       \"cv03\" : 3189+$floor($random()*1000),\t       \"cv04\" : 3189+$floor($random()*1000),\t       \"cv05\" : 3189+$floor($random()*1000),\t       \"cv06\" : 3189+$floor($random()*1000),\t       \"cv07\" : 3189+$floor($random()*1000),\t       \"cv08\" : 3189+$floor($random()*1000)\t   }\t}",
+        "payload": "{\t   \"att\":{\t      \"opid\":\"AH122211000037\",\t      \"ppid\":\"AH122211000037<<<<<<\",\t      \"flid\":\"\",\t      \"frmv\":\"3.2.1\"\t   },\t   \"cmd\":{\t      \"pubk\":\"*005 750 029 243 788 309 144#\",\t      \"gstw\":5,\t      \"gctw\":2,\t      \"napn\":\"internet.gma.iot\",\t      \"swch\":0,\t      \"read\":0,\t      \"rptm\":0,\t      \"hbfq\":1\t   },\t   \"sts\":{\t      \"sstc\":0,\t      \"crtm\":\"\",\t      \"udtm\":\"\",\t      \"time\":\"\",\t      \"plat\":\"22.684292\",\t      \"plon\":\"114.234264\",\t      \"gpss\":11,\t      \"gpfc\":21,\t      \"rcrd\":0,\t      \"trhd\":121,\t      \"tpgd\":121,\t      \"pgst\":0,\t      \"ocst\":0\t   },\t   \"dta\":{\t      \"batp\":0,\t      \"inpp\":42172,\t      \"outp\":0,\t      \"aeng\":28770,\t      \"pckv\":22800,\t      \"pckc\":0,\t      \"rsoc\":90,\t      \"rcap\":43200,\t      \"fccp\":48000,\t      \"pckt\":25,\t      \"acyc\":0\t   },\t   \"dia\":{\t      \"cv01\":3257,\t      \"cv02\":3257,\t      \"cv03\":3257,\t      \"cv04\":3257,\t      \"cv05\":3257,\t      \"cv06\":3257,\t      \"cv07\":3257\t   }\t}",
         "payloadType": "jsonata",
         "x": 230,
         "y": 200,

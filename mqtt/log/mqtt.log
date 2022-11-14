@@ -344,3 +344,249 @@
 1667970489: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1667970520: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1667971787: mosquitto version 1.4.15 terminating
+1667972378: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1667972378: Config loaded from /mqtt/config/mosquitto.conf.
+1667972378: Opening ipv4 listen socket on port 1884.
+1667972378: Opening ipv6 listen socket on port 1884.
+1667972378: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667972378: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667972456: New connection from 172.18.0.6 on port 1884.
+1667972456: New client connected from 172.18.0.6 as Telegraf-Consumer-DxPIS (c1, k60).
+1667972501: New connection from 172.18.0.1 on port 1884.
+1667972501: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667973370: Client mqtt-explorer-48df5c77 disconnected.
+1667974179: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667975899: New connection from 172.18.0.1 on port 1884.
+1667975899: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667975962: Client mqtt-explorer-48df5c77 disconnected.
+1667975965: New connection from 172.18.0.1 on port 1884.
+1667975965: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667975980: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667976051: Client mqtt-explorer-48df5c77 disconnected.
+1667976146: New connection from 172.18.0.1 on port 1884.
+1667976146: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667976364: Client Telegraf-Consumer-DxPIS disconnected.
+1667976367: New connection from 172.18.0.6 on port 1884.
+1667976367: New client connected from 172.18.0.6 as Telegraf-Consumer-XOhCi (c1, k60).
+1667976420: Client mqtt-explorer-48df5c77 disconnected.
+1667976909: New connection from 172.18.0.1 on port 1884.
+1667976909: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667977781: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667978556: Client mqtt-explorer-48df5c77 disconnected.
+1667979582: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667980927: New connection from 172.18.0.1 on port 1884.
+1667980927: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1667981383: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667983184: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667984985: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667986786: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667988587: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667990266: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990285: Client mqtt-explorer-48df5c77 disconnected.
+1667990297: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990328: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990332: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990363: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990388: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667990394: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990398: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990429: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990460: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990464: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990495: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990526: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990530: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990561: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990592: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990597: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990628: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990659: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990738: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667990769: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667990800: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667992189: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667992986: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1667993017: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667993048: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1667993990: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667995791: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667997592: Saving in-memory database to /mqtt/data/mosquitto.db.
+1667999393: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668001194: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668002995: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668004796: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668006597: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668008398: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668010199: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668012000: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668013801: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668014619: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668056250: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668056281: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668057201: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668058880: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668058911: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668058942: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668058971: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668059002: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668059002: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668059033: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668059062: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668059093: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668059124: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668059153: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668059184: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668059215: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668060803: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668062604: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668064405: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668065098: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668065129: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668065160: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668065201: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668065232: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668065263: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668066206: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668068007: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668069150: mosquitto version 1.4.15 terminating
+1668083798: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1668083798: Config loaded from /mqtt/config/mosquitto.conf.
+1668083798: Opening ipv4 listen socket on port 1884.
+1668083798: Opening ipv6 listen socket on port 1884.
+1668083798: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668083799: New connection from 172.18.0.6 on port 1884.
+1668083799: New client connected from 172.18.0.6 as Telegraf-Consumer-kEuAo (c1, k60).
+1668083829: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668085599: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668085603: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668085634: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668085665: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668085938: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668085969: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668086000: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668087400: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668089201: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668091002: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668092803: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668093432: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668093463: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668145068: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668145070: Client Telegraf-Consumer-kEuAo has exceeded timeout, disconnecting.
+1668145070: Socket error on client Telegraf-Consumer-kEuAo, disconnecting.
+1668145070: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668145079: New connection from 172.18.0.6 on port 1884.
+1668145079: New client connected from 172.18.0.6 as Telegraf-Consumer-kEuAo (c1, k60).
+1668145132: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668145163: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146155: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146186: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146217: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146246: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146277: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146308: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146664: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146695: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146726: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146800: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146831: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146862: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146865: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146871: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668146895: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146926: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146927: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668146958: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146989: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668146992: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668147022: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668147053: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148005: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148036: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148067: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148230: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148261: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148292: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148417: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148448: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148479: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148562: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148593: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148624: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148672: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668148768: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148799: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148830: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148859: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148890: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148921: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668148950: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668148981: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149012: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149041: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149072: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149103: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149132: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149163: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149194: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149223: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149254: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149285: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149314: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149345: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149376: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149405: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149436: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149467: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149496: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149527: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149558: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149587: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149618: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149649: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149678: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668149709: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668149740: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668150473: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668152274: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668152511: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668152542: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152573: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152602: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668152633: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152664: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152693: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668152724: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152755: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152920: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668152950: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668152981: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668154075: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668155517: Socket error on client local.15e249dc1b6c.willing-oves-bridge, disconnecting.
+1668155547: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668155578: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668155876: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668157677: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668159478: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668161279: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668163080: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668164881: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668165283: mosquitto version 1.4.15 terminating
+1668201350: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1668201350: Config loaded from /mqtt/config/mosquitto.conf.
+1668201350: Opening ipv4 listen socket on port 1884.
+1668201350: Opening ipv6 listen socket on port 1884.
+1668201350: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668201355: New connection from 172.18.0.6 on port 1884.
+1668201355: New client connected from 172.18.0.6 as Telegraf-Consumer-lW80h (c1, k60).
+1668201381: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668201391: New connection from 172.18.0.1 on port 1884.
+1668201391: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1668203151: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668204952: Saving in-memory database to /mqtt/data/mosquitto.db.
+1668412604: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1668412604: Config loaded from /mqtt/config/mosquitto.conf.
+1668412604: Opening ipv4 listen socket on port 1884.
+1668412604: Opening ipv6 listen socket on port 1884.
+1668412604: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668412635: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
+1668412791: mosquitto version 1.4.15 terminating
