@@ -783,3 +783,1084 @@
 1669149381: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1669149412: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1669149741: mosquitto version 1.4.15 terminating
+1669149862: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669149862: Config loaded from /mqtt/config/mosquitto.conf.
+1669149862: Opening ipv4 listen socket on port 1884.
+1669149862: Opening ipv6 listen socket on port 1884.
+1669149862: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669149892: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669150659: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669150689: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669150720: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669151204: New connection from 172.18.0.1 on port 1884.
+1669151204: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669181844: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669181883: Client mqtt-explorer-48df5c77 has exceeded timeout, disconnecting.
+1669181883: Socket error on client mqtt-explorer-48df5c77, disconnecting.
+1669181883: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669181886: New connection from 172.18.0.1 on port 1884.
+1669181887: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669181918: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669181951: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669182831: Client mqtt-explorer-48df5c77 has exceeded timeout, disconnecting.
+1669182856: Socket error on client mqtt-explorer-48df5c77, disconnecting.
+1669193849: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669193851: New connection from 172.18.0.1 on port 1884.
+1669193851: New connection from 172.18.0.1 on port 1884.
+1669193851: New connection from 172.18.0.1 on port 1884.
+1669193851: New connection from 172.18.0.1 on port 1884.
+1669193851: New connection from 172.18.0.1 on port 1884.
+1669193851: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: Socket error on client mqtt-explorer-48df5c77, disconnecting.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: Socket error on client mqtt-explorer-48df5c77, disconnecting.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: New connection from 172.18.0.1 on port 1884.
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193852: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193852: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193852: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Client mqtt-explorer-48df5c77 already connected, closing old connection.
+1669193853: Client mqtt-explorer-48df5c77 disconnected.
+1669193853: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193853: Socket error on client mqtt-explorer-48df5c77, disconnecting.
+1669193854: New connection from 172.18.0.1 on port 1884.
+1669193854: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669193881: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669193943: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194005: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194036: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194065: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194096: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194127: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194156: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194187: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194218: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194247: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194278: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194309: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194338: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194369: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194400: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194429: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194460: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194491: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194520: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194551: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194582: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194611: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194642: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194673: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194702: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194733: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194764: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194793: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194824: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194855: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194884: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669194915: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194946: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669194975: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195006: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195037: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195066: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195097: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195128: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195157: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195188: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195219: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195248: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195279: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195310: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195339: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195370: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195401: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195430: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195461: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195492: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195521: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195552: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195583: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195612: Socket error on client local.13c9c0b1e112.xsolar-bridge, disconnecting.
+1669195643: Connecting bridge xsolar-bridge (mqtt-2.omnivoltaic.com:1886)
+1669195643: mosquitto version 1.4.15 terminating
+1669195708: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669195708: Config loaded from /mqtt/config/mosquitto.conf.
+1669195708: Opening ipv4 listen socket on port 1884.
+1669195708: Opening ipv6 listen socket on port 1884.
+1669195708: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195708: New connection from 172.19.0.1 on port 1884.
+1669195708: New client connected from 172.19.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669195739: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195768: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669195799: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195830: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195859: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669195890: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195921: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669195932: Client mqtt-explorer-48df5c77 disconnected.
+1669195950: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669195981: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196012: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196037: New connection from 172.19.0.6 on port 1884.
+1669196037: New client connected from 172.19.0.6 as Telegraf-Consumer-CVage (c1, k60).
+1669196041: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196072: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196103: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196132: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196163: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196194: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196223: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196254: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196285: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196286: mosquitto version 1.4.15 terminating
+1669196297: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669196297: Config loaded from /mqtt/config/mosquitto.conf.
+1669196297: Opening ipv4 listen socket on port 1884.
+1669196297: Opening ipv6 listen socket on port 1884.
+1669196297: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196297: New connection from 172.19.0.6 on port 1884.
+1669196297: New client connected from 172.19.0.6 as Telegraf-Consumer-CVage (c1, k60).
+1669196297: Client Telegraf-Consumer-CVage disconnected.
+1669196310: New connection from 172.19.0.6 on port 1884.
+1669196310: New client connected from 172.19.0.6 as Telegraf-Consumer-6Cbcb (c1, k60).
+1669196327: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196356: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196387: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196418: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196447: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196478: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196509: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196538: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196569: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196600: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196629: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196660: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196691: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1888)
+1669196720: Socket error on client local.e7b624ebfbb4.vesselnet-nigeria-bridge, disconnecting.
+1669196722: mosquitto version 1.4.15 terminating
+1669196901: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669196901: Config loaded from /mqtt/config/mosquitto.conf.
+1669196901: Opening ipv4 listen socket on port 1884.
+1669196901: Opening ipv6 listen socket on port 1884.
+1669196901: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669196906: New connection from 172.20.0.6 on port 1884.
+1669196906: New client connected from 172.20.0.6 as Telegraf-Consumer-QXRzs (c1, k60).
+1669196932: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669196961: Socket error on client local.8802aa42a0d8.vesselnet-nigeria-bridge, disconnecting.
+1669196992: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197009: mosquitto version 1.4.15 terminating
+1669197298: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669197298: Config loaded from /mqtt/config/mosquitto.conf.
+1669197298: Opening ipv4 listen socket on port 1884.
+1669197298: Opening ipv6 listen socket on port 1884.
+1669197298: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197298: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197357: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197359: New connection from 172.21.0.5 on port 1884.
+1669197359: New client connected from 172.21.0.5 as Telegraf-Consumer-T9cRl (c1, k60).
+1669197383: Client Telegraf-Consumer-T9cRl disconnected.
+1669197388: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197389: mosquitto version 1.4.15 terminating
+1669197396: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669197396: Config loaded from /mqtt/config/mosquitto.conf.
+1669197396: Opening ipv4 listen socket on port 1884.
+1669197396: Opening ipv6 listen socket on port 1884.
+1669197396: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197427: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197456: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197487: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197518: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197547: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197578: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197609: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197638: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197669: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197700: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197729: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197746: New connection from 172.21.0.5 on port 1884.
+1669197746: New client connected from 172.21.0.5 as Telegraf-Consumer-Mjaxg (c1, k60).
+1669197760: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197791: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197820: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197851: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197882: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197911: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669197942: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669197973: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198002: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198033: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198059: Client Telegraf-Consumer-Mjaxg disconnected.
+1669198064: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198066: mosquitto version 1.4.15 terminating
+1669198070: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669198070: Config loaded from /mqtt/config/mosquitto.conf.
+1669198070: Opening ipv4 listen socket on port 1884.
+1669198070: Opening ipv6 listen socket on port 1884.
+1669198070: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198072: New connection from 172.21.0.5 on port 1884.
+1669198072: New client connected from 172.21.0.5 as Telegraf-Consumer-xngwI (c1, k60).
+1669198101: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198129: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198160: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198191: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198220: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198251: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198282: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198311: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198342: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198373: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198402: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198433: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198464: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198493: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198524: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198555: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198584: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198615: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198646: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198675: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198706: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198737: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198766: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198797: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198828: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198857: Socket error on client local.9391b5967aae.vesselnet-nigeria-bridge, disconnecting.
+1669198888: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198919: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669198928: mosquitto version 1.4.15 terminating
