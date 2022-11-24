@@ -1864,3 +1864,140 @@
 1669198888: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
 1669198919: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
 1669198928: mosquitto version 1.4.15 terminating
+1669203106: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669203106: Config loaded from /mqtt/config/mosquitto.conf.
+1669203106: Opening ipv4 listen socket on port 1884.
+1669203106: Opening ipv6 listen socket on port 1884.
+1669203106: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203106: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203109: New connection from 172.25.0.5 on port 1884.
+1669203109: New client connected from 172.25.0.5 as Telegraf-Consumer-kL2CR (c1, k60).
+1669203166: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203177: New connection from 172.25.0.1 on port 1884.
+1669203177: New client connected from 172.25.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669203197: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203228: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203257: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203288: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203319: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203348: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203379: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203410: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203439: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203470: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203501: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203530: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203561: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203592: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203616: Client mqtt-explorer-48df5c77 disconnected.
+1669203621: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203652: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203683: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203712: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203743: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203774: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203803: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203834: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203865: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203894: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669203925: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203956: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669203985: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204016: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204047: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204076: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204107: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204138: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204167: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204198: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204229: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204258: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204289: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204320: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204349: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204380: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204411: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204440: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204471: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204502: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204531: Socket error on client local.3e2218d2a2a0.vesselnet-nigeria-bridge, disconnecting.
+1669204562: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669204593: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669207832: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669207832: Config loaded from /mqtt/config/mosquitto.conf.
+1669207832: Opening ipv4 listen socket on port 1884.
+1669207832: Opening ipv6 listen socket on port 1884.
+1669207832: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669207851: New connection from 172.25.0.5 on port 1884.
+1669207851: New client connected from 172.25.0.5 as Telegraf-Consumer-ipD65 (c1, k60).
+1669207863: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669207875: Client Telegraf-Consumer-ipD65 disconnected.
+1669207877: New connection from 172.25.0.5 on port 1884.
+1669207877: New client connected from 172.25.0.5 as Telegraf-Consumer-ZHynB (c1, k60).
+1669207894: mosquitto version 1.4.15 terminating
+1669207896: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669207896: Config loaded from /mqtt/config/mosquitto.conf.
+1669207896: Opening ipv4 listen socket on port 1884.
+1669207896: Opening ipv6 listen socket on port 1884.
+1669207896: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669207900: New connection from 172.25.0.5 on port 1884.
+1669207900: New client connected from 172.25.0.5 as Telegraf-Consumer-P1g7x (c1, k60).
+1669207926: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669208051: New connection from 172.25.0.1 on port 1884.
+1669208051: New client connected from 172.25.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669208141: Client mqtt-explorer-48df5c77 disconnected.
+1669208182: mosquitto version 1.4.15 terminating
+1669208211: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669208211: Config loaded from /mqtt/config/mosquitto.conf.
+1669208211: Opening ipv4 listen socket on port 1884.
+1669208211: Opening ipv6 listen socket on port 1884.
+1669208211: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669208241: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669208251: New connection from 172.18.0.5 on port 1884.
+1669208251: New client connected from 172.18.0.5 as Telegraf-Consumer-P5WSe (c1, k60).
+1669208255: mosquitto version 1.4.15 terminating
+1669208257: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669208257: Config loaded from /mqtt/config/mosquitto.conf.
+1669208257: Opening ipv4 listen socket on port 1884.
+1669208257: Opening ipv6 listen socket on port 1884.
+1669208257: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669208261: New connection from 172.18.0.5 on port 1884.
+1669208261: New client connected from 172.18.0.5 as Telegraf-Consumer-BlIeK (c1, k60).
+1669208288: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669208368: New connection from 172.18.0.1 on port 1884.
+1669218677: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669218677: Config loaded from /mqtt/config/mosquitto.conf.
+1669218677: Opening ipv4 listen socket on port 1884.
+1669218677: Opening ipv6 listen socket on port 1884.
+1669218677: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669218677: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669218938: New connection from 172.18.0.5 on port 1884.
+1669218938: New client connected from 172.18.0.5 as Telegraf-Consumer-Q0F2u (c1, k60).
+1669218964: mosquitto version 1.4.15 terminating
+1669218965: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669218965: Config loaded from /mqtt/config/mosquitto.conf.
+1669218965: Opening ipv4 listen socket on port 1884.
+1669218965: Opening ipv6 listen socket on port 1884.
+1669218965: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669218967: New connection from 172.18.0.5 on port 1884.
+1669218967: New client connected from 172.18.0.5 as Telegraf-Consumer-tLcco (c1, k60).
+1669218996: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669220766: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669222567: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669230985: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669230993: Client Telegraf-Consumer-tLcco has exceeded timeout, disconnecting.
+1669230993: Socket error on client Telegraf-Consumer-tLcco, disconnecting.
+1669230993: Socket error on client local.a6339b85f174.vesselnet-nigeria-bridge, disconnecting.
+1669231000: New connection from 172.18.0.5 on port 1884.
+1669231000: New client connected from 172.18.0.5 as Telegraf-Consumer-tLcco (c1, k60).
+1669231024: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669231055: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669268026: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669268035: Client Telegraf-Consumer-tLcco has exceeded timeout, disconnecting.
+1669268035: Socket error on client Telegraf-Consumer-tLcco, disconnecting.
+1669268035: Socket error on client local.a6339b85f174.vesselnet-nigeria-bridge, disconnecting.
+1669268041: New connection from 172.18.0.5 on port 1884.
+1669268041: New client connected from 172.18.0.5 as Telegraf-Consumer-tLcco (c1, k60).
+1669268065: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669268096: Connecting bridge vesselnet-nigeria-bridge (mqtt-2.omnivoltaic.com:1886)
+1669268829: mosquitto version 1.4.15 terminating
