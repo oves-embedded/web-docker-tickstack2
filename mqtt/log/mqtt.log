@@ -590,3 +590,439 @@
 1668412604: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1668412635: Connecting bridge willing-oves-bridge (mqtt-2.omnivoltaic.com:1883)
 1668412791: mosquitto version 1.4.15 terminating
+1669276519: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669276519: Config loaded from /mqtt/config/mosquitto.conf.
+1669276519: Opening ipv4 listen socket on port 1884.
+1669276519: Opening ipv6 listen socket on port 1884.
+1669276519: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276550: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276551: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276581: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276598: New connection from 172.19.0.5 on port 1884.
+1669276598: New client connected from 172.19.0.5 as Telegraf-Consumer-uxgZp (c1, k60).
+1669276612: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276613: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276640: mosquitto version 1.4.15 terminating
+1669276644: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669276644: Config loaded from /mqtt/config/mosquitto.conf.
+1669276644: Opening ipv4 listen socket on port 1884.
+1669276644: Opening ipv6 listen socket on port 1884.
+1669276644: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276651: New connection from 172.19.0.5 on port 1884.
+1669276652: New client connected from 172.19.0.5 as Telegraf-Consumer-6Q65A (c1, k60).
+1669276675: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276676: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276706: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276737: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276738: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276740: mosquitto version 1.4.15 terminating
+1669276746: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669276746: Config loaded from /mqtt/config/mosquitto.conf.
+1669276746: Opening ipv4 listen socket on port 1884.
+1669276746: Opening ipv6 listen socket on port 1884.
+1669276746: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276753: New connection from 172.19.0.5 on port 1884.
+1669276753: New client connected from 172.19.0.5 as Telegraf-Consumer-7Welz (c1, k60).
+1669276776: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276777: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276807: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276838: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276839: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276869: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276900: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276901: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276931: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276962: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669276963: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669276993: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277024: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277025: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277055: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277086: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277086: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277117: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277148: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277149: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277179: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277210: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277211: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277241: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277272: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277273: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277275: mosquitto version 1.4.15 terminating
+1669277298: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669277298: Config loaded from /mqtt/config/mosquitto.conf.
+1669277298: Opening ipv4 listen socket on port 1884.
+1669277298: Opening ipv6 listen socket on port 1884.
+1669277298: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277300: New connection from 172.19.0.5 on port 1884.
+1669277300: New client connected from 172.19.0.5 as Telegraf-Consumer-7Welz (c1, k60).
+1669277300: Client Telegraf-Consumer-7Welz disconnected.
+1669277309: New connection from 172.19.0.5 on port 1884.
+1669277309: New client connected from 172.19.0.5 as Telegraf-Consumer-XojiD (c1, k60).
+1669277328: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277329: Socket error on client local.5f757c247a47.kevin-kibet-oves-bridge, disconnecting.
+1669277359: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277371: mosquitto version 1.4.15 terminating
+1669277447: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669277447: Config loaded from /mqtt/config/mosquitto.conf.
+1669277447: Opening ipv4 listen socket on port 1884.
+1669277447: Opening ipv6 listen socket on port 1884.
+1669277447: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277447: New connection from 172.20.0.5 on port 1884.
+1669277447: New client connected from 172.20.0.5 as Telegraf-Consumer-joIIs (c1, k60).
+1669277477: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277478: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277508: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277539: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277540: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277570: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277601: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277602: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277632: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277663: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277664: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277694: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277725: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277726: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277756: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277787: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277788: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277818: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277849: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277850: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277880: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277911: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277912: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669277942: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277973: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669277974: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278004: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278035: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278036: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278066: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278097: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278098: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278128: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278159: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278160: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278190: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278221: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278222: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278252: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278283: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278284: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278314: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278345: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278346: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278376: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278407: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278408: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278438: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278469: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278470: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278500: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278531: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278532: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278562: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278593: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278594: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278602: New connection from 172.20.0.1 on port 1884.
+1669278602: New client connected from 172.20.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669278624: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278634: Client mqtt-explorer-48df5c77 disconnected.
+1669278635: New connection from 172.20.0.1 on port 1884.
+1669278635: New client connected from 172.20.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669278655: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278656: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278686: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278717: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278718: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278748: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278779: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278780: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278784: mosquitto version 1.4.15 terminating
+1669278789: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669278789: Config loaded from /mqtt/config/mosquitto.conf.
+1669278789: Opening ipv4 listen socket on port 1884.
+1669278789: Opening ipv6 listen socket on port 1884.
+1669278789: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278789: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278789: New connection from 172.20.0.1 on port 1884.
+1669278789: New client connected from 172.20.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669278790: Connection Refused: not authorised
+1669278790: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278796: New connection from 172.20.0.5 on port 1884.
+1669278796: New client connected from 172.20.0.5 as Telegraf-Consumer-kU2xR (c1, k60).
+1669278821: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278852: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278853: Connection Refused: not authorised
+1669278853: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278883: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278914: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278915: Connection Refused: not authorised
+1669278915: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669278946: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278977: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669278978: Connection Refused: not authorised
+1669278978: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669279008: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279039: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279040: Connection Refused: not authorised
+1669279040: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669279070: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279101: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279102: Connection Refused: not authorised
+1669279102: Socket error on client local.3efebb1608c4.kevin-kibet-oves-bridge, disconnecting.
+1669279132: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279150: mosquitto version 1.4.15 terminating
+1669279370: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669279370: Config loaded from /mqtt/config/mosquitto.conf.
+1669279370: Opening ipv4 listen socket on port 1884.
+1669279370: Opening ipv6 listen socket on port 1884.
+1669279370: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279370: New connection from 172.21.0.1 on port 1884.
+1669279370: New client connected from 172.21.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669279385: mosquitto version 1.4.15 terminating
+1669279388: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669279388: Config loaded from /mqtt/config/mosquitto.conf.
+1669279388: Opening ipv4 listen socket on port 1884.
+1669279388: Opening ipv6 listen socket on port 1884.
+1669279388: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279388: New connection from 172.21.0.1 on port 1884.
+1669279388: New client connected from 172.21.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669279389: New connection from 172.21.0.7 on port 1884.
+1669279389: New client connected from 172.21.0.7 as Telegraf-Consumer-5M0U7 (c1, k60).
+1669279418: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279420: Connection Refused: not authorised
+1669279420: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669279450: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669279481: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280002: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669280002: Config loaded from /mqtt/config/mosquitto.conf.
+1669280002: Opening ipv4 listen socket on port 1884.
+1669280002: Opening ipv6 listen socket on port 1884.
+1669280002: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280002: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280003: Connection Refused: not authorised
+1669280003: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280008: New connection from 172.21.0.5 on port 1884.
+1669280008: New client connected from 172.21.0.5 as Telegraf-Consumer-4WS82 (c1, k60).
+1669280033: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280064: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280065: Connection Refused: not authorised
+1669280065: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280095: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280126: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280127: Connection Refused: not authorised
+1669280127: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280158: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280189: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280190: Connection Refused: not authorised
+1669280190: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280220: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280251: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280252: Connection Refused: not authorised
+1669280252: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280282: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280290: New connection from 172.21.0.1 on port 1884.
+1669280290: New client connected from 172.21.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669280313: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280314: Connection Refused: not authorised
+1669280314: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280345: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280363: Client mqtt-explorer-48df5c77 disconnected.
+1669280376: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280377: Connection Refused: not authorised
+1669280377: Socket error on client local.3a52814db7d6.kevin-kibet-oves-bridge, disconnecting.
+1669280400: mosquitto version 1.4.15 terminating
+1669280455: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669280455: Config loaded from /mqtt/config/mosquitto.conf.
+1669280455: Opening ipv4 listen socket on port 1884.
+1669280455: Opening ipv6 listen socket on port 1884.
+1669280455: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280458: New connection from 172.18.0.5 on port 1884.
+1669280458: New client connected from 172.18.0.5 as Telegraf-Consumer-ScGtG (c1, k60).
+1669280486: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280487: Connection Refused: not authorised
+1669280487: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280517: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280541: New connection from 172.18.0.1 on port 1884.
+1669280541: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669280548: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280549: Connection Refused: not authorised
+1669280549: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280579: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280610: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280611: Connection Refused: not authorised
+1669280611: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280642: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280673: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280674: Connection Refused: not authorised
+1669280674: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280689: Client mqtt-explorer-48df5c77 disconnected.
+1669280704: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280723: New connection from 172.18.0.1 on port 1884.
+1669280723: New client connected from 172.18.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669280725: Client mqtt-explorer-48df5c77 disconnected.
+1669280735: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280736: Connection Refused: not authorised
+1669280736: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280766: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280797: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280798: Connection Refused: not authorised
+1669280798: Socket error on client local.a6603d86ad70.kevin-kibet-oves-bridge, disconnecting.
+1669280828: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280859: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280859: Error: Unable to load CA certificates, check bridge_cafile "/mqtt/config/ca.crt".
+1669280890: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280921: mosquitto version 1.4.15 terminating
+1669280978: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1669280978: Config loaded from /mqtt/config/mosquitto.conf.
+1669280978: Opening ipv4 listen socket on port 1884.
+1669280978: Opening ipv6 listen socket on port 1884.
+1669280978: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669280978: New connection from 172.19.0.6 on port 1884.
+1669280978: New client connected from 172.19.0.6 as Telegraf-Consumer-QkcyV (c1, k60).
+1669281008: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281009: Connection Refused: not authorised
+1669281009: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281040: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281071: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281072: Connection Refused: not authorised
+1669281072: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281102: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281133: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281134: Connection Refused: not authorised
+1669281134: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281150: New connection from 172.19.0.1 on port 1884.
+1669281150: New client connected from 172.19.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669281165: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281171: Client mqtt-explorer-48df5c77 disconnected.
+1669281196: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281197: Connection Refused: not authorised
+1669281197: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281218: New connection from 172.19.0.1 on port 1884.
+1669281218: New client connected from 172.19.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669281228: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281259: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281260: Connection Refused: not authorised
+1669281260: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281290: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281321: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281322: Connection Refused: not authorised
+1669281322: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281352: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281355: Client mqtt-explorer-48df5c77 disconnected.
+1669281383: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281384: Connection Refused: not authorised
+1669281384: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281415: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281446: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281447: Connection Refused: not authorised
+1669281447: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281477: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281508: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281512: Connection Refused: not authorised
+1669281512: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281543: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281574: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281575: Connection Refused: not authorised
+1669281575: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281606: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281637: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281638: Connection Refused: not authorised
+1669281638: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281668: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281699: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281702: Connection Refused: not authorised
+1669281702: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281732: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281763: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281764: Connection Refused: not authorised
+1669281764: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281795: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281826: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281827: Connection Refused: not authorised
+1669281827: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281858: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281889: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281891: Connection Refused: not authorised
+1669281891: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281921: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281952: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669281953: Connection Refused: not authorised
+1669281953: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669281984: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282015: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282017: Connection Refused: not authorised
+1669282017: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282047: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282078: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282079: Connection Refused: not authorised
+1669282079: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282110: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282141: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282143: Connection Refused: not authorised
+1669282143: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282173: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282204: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282205: Connection Refused: not authorised
+1669282205: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282236: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282267: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282268: Connection Refused: not authorised
+1669282268: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282298: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282329: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282330: Connection Refused: not authorised
+1669282330: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282360: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282391: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282393: Connection Refused: not authorised
+1669282393: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282423: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282454: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282456: Connection Refused: not authorised
+1669282456: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282486: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282517: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282518: Connection Refused: not authorised
+1669282518: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282548: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282579: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282581: Connection Refused: not authorised
+1669282581: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282611: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282642: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282643: Connection Refused: not authorised
+1669282643: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282674: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282705: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282706: Connection Refused: not authorised
+1669282706: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282736: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282767: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282768: Connection Refused: not authorised
+1669282768: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282778: Saving in-memory database to /mqtt/data/mosquitto.db.
+1669282799: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282830: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282832: Connection Refused: not authorised
+1669282832: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282863: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282894: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282895: Connection Refused: not authorised
+1669282895: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282926: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282957: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669282958: Connection Refused: not authorised
+1669282958: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669282965: New connection from 172.19.0.1 on port 1884.
+1669282965: New client connected from 172.19.0.1 as mqtt-explorer-48df5c77 (c1, k60).
+1669282988: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669283019: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669283021: Connection Refused: not authorised
+1669283021: Socket error on client local.8e3bb838fb5d.kevin-kibet-oves-bridge, disconnecting.
+1669283051: Connecting bridge kevin-kibet-oves-bridge (mqtt-2.omnivoltaic.com:1884)
+1669283070: mosquitto version 1.4.15 terminating
