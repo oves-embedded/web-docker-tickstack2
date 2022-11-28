@@ -1,0 +1,25 @@
+name: Updating Client Broker Configs
+on:
+  push:
+    branches:
+      - main
+jobs:
+  Branch-Update-clients:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Update Vesselnet Client Broker
+        run: |
+          git checkout vesselnet-nigeria-configs
+          git pull
+          git rebase main
+          git push -f
+
+      - name: Update Xsolar Client Broker
+        run: |
+          git checkout xsolar-config
+          git pull
+          git rebase main
+          git push -f
