@@ -17,9 +17,9 @@ jobs:
           git rebase main
           git push -f
 
-      - name: Update Xsolar Client Broker
-        run: |
-          git checkout xsolar-config
-          git pull
-          git rebase main
-          git push -f
+      # - name: Update Xsolar Client Broker
+      #   run: |
+      #     git checkout xsolar-config
+      #     git pull
+      #     git rebase main
+      #     git push -f
