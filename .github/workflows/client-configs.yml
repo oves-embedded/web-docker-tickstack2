@@ -10,6 +10,11 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
+      - name: User
+        run: |
+          git config --global user.email "technical@omnivoltaic.com"
+          git config --global user.name "oves-embedded"
+
       - name: Update Vesselnet Client Broker
         run: |
           git checkout vesselnet-nigeria-configs
@@ -17,9 +22,9 @@ jobs:
           git rebase main
           git push -f
 
-      # - name: Update Xsolar Client Broker
-      #   run: |
-      #     git checkout xsolar-config
-      #     git pull
-      #     git rebase main
-      #     git push -f
+      - name: Update Xsolar Client Broker
+        run: |
+          git checkout xsolar-config
+          git pull
+          git rebase main
+          git push -f
