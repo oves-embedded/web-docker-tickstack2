@@ -9,18 +9,15 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
 
-      # - name: User
-      #   run: |
-      #     git config --global user.email "technical@omnivoltaic.com"
-      #     git config --global user.name "oves-embedded"
-
-      # - name: Update Vesselnet Client Broker
-      #   run: |
-      #     git checkout vesselnet-nigeria-configs
-      #     git pull
-      #     git rebase main
-      #     git push -f
+      - name: Update Vesselnet Client Broker
+        run: |
+          git checkout vesselnet-nigeria-configs
+          git pull
+          git rebase main
+          git push -f
 
       - name: Update Xsolar Client Broker
         run: |
