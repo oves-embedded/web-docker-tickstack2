@@ -10,21 +10,23 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: User
-        run: |
-          git config --global user.email "technical@omnivoltaic.com"
-          git config --global user.name "oves-embedded"
+      # - name: User
+      #   run: |
+      #     git config --global user.email "technical@omnivoltaic.com"
+      #     git config --global user.name "oves-embedded"
 
-      - name: Update Vesselnet Client Broker
-        run: |
-          git checkout vesselnet-nigeria-configs
-          git pull
-          git rebase main
-          git push -f
+      # - name: Update Vesselnet Client Broker
+      #   run: |
+      #     git checkout vesselnet-nigeria-configs
+      #     git pull
+      #     git rebase main
+      #     git push -f
 
-      - name: Update Xsolar Client Broker
-        run: |
-          git checkout xsolar-config
-          git pull
-          git rebase main
-          git push -f
+      # - name: Update Xsolar Client Broker
+      #   run: |
+      #     git checkout xsolar-config
+      #     git pull
+      #     git rebase main
+      #     git push -f
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
