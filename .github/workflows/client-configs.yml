@@ -11,24 +11,25 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      # - name: Update Vesselnet Client Broker
-      #   run: |
-      #     git status
-      #   git rebase --onto main vesselnet-nigeria-configs xsolar-config
-
-
       - name: Update Vesselnet Client Broker
         run: |
-          git checkout vesselnet-nigeria-configs
-          git pull
-          git rebase main
-          git push -f
+          git remote update
+          git fetch
+          git checkout --track origin/main
 
-      - name: Update Xsolar Client Broker
-        run: |
-          git checkout xsolar-config
-          git pull
-          git rebase main
-          git push -f
+
+      # - name: Update Vesselnet Client Broker
+      #   run: |
+      #     git checkout vesselnet-nigeria-configs
+      #     git pull
+      #     git rebase main
+      #     git push -f
+
+      # - name: Update Xsolar Client Broker
+      #   run: |
+      #     git checkout xsolar-config
+      #     git pull
+      #     git rebase main
+      #     git push -f
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
