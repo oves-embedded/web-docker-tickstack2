@@ -15,7 +15,7 @@ jobs:
         run: |
           git remote update
           git fetch
-          git checkout --track origin/main
+          git checkout vesselnet-nigeria-configs
 
 
       # - name: Update Vesselnet Client Broker
