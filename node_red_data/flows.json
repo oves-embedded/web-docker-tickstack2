@@ -386,7 +386,7 @@
         "tls": "482a295faf261183",
         "clientid": "",
         "autoConnect": true,
-        "usetls": true,
+        "usetls": false,
         "protocolVersion": "4",
         "keepalive": "60",
         "cleansession": true,
@@ -799,7 +799,7 @@
             },
             {
                 "p": "topic",
-                "v": "$join(['dt/V01/GPRSV2/', '48AH2104000029'])",
+                "v": "$join(['dt/V01/GPRSV2/', '48AH2104000034'])",
                 "vt": "jsonata"
             }
         ],
@@ -808,14 +808,12 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "{\t   \"att\":{\t       \"opid\":\"48AH2104000029\",\t       \"ppid\":\"48AH2104000029\",\t       \"flid\":\"\",\t       \"frmv\":\"3.1.2\"\t   },\t   \"cmd\" : {\t       \"pubk\" : \"*042 195 826 493 279 052 222#\",\t       \"gstw\" : 480,\t       \"gctw\" : 10,\t       \"napn\" : \"t-mobile,xxxxxxx\",\t       \"swch\" : \"On\",\t       \"read\" : \"42AH2210000010\",\t       \"rptm\" : \"Rpt mode\",\t       \"hbfq\" : 60\t\t},\t   \"sts\":{\t       \"time\":202100010001,\t       \"udtm\":202100010001,\t       \"crtm\":202100010001,\t       \"gpss\" : 4,\t       \"gpfc\" : 100,\t       \"plat\":-1.286389,\t       \"plon\":36.817223,\t       \"rcrd\":16+$floor($random()*10),\t       \"trhd\":99+$floor($random()*100),\t       \"tpgd\":69+$floor($random()*1000),\t       \"pgst\":1\t   },\t   \"dta\":{\t       \"aeng\" : 3177+$floor($random()*1000),\t       \"acyc\" : 13+$floor($random()*1000),\t       \"batp\":100+$floor($random()*1000),\t       \"inpp\":200+$floor($random()*1000),\t       \"outp\":100+$floor($random()*1000),\t       \"pckv\":23200+$floor($random()*1000),\t       \"pckc\":6+$floor($random()*1000),\t       \"rsoc\":90+$floor($random()*1000),\t       \"rcap\":4+$floor($random()*1000),\t       \"fccp\":17904+$floor($random()*1000),\t       \"pckt\":110+$floor($random()*1000)\t   },\t   \"dia\" : {\t       \"cv01\" : 3189+$floor($random()*1000),\t       \"cv02\" : 3189+$floor($random()*1000),\t       \"cv03\" : 3189+$floor($random()*1000),\t       \"cv04\" : 3189+$floor($random()*1000),\t       \"cv05\" : 3189+$floor($random()*1000),\t       \"cv06\" : 3189+$floor($random()*1000),\t       \"cv07\" : 3189+$floor($random()*1000),\t       \"cv08\" : 3189+$floor($random()*1000)\t   }\t}",
+        "payload": "{\t   \"att\":{\t       \"opid\":\"48AH2104000033\",\t       \"ppid\":\"48AH2104000033\",\t       \"flid\":\"\",\t       \"frmv\":\"3.1.2\"\t   },\t   \"cmd\" : {\t       \"pubk\" : \"*042 195 826 493 279 052 222#\",\t       \"gstw\" : 480,\t       \"gctw\" : 10,\t       \"napn\" : \"t-mobile,xxxxxxx\",\t       \"swch\" : \"On\",\t       \"read\" : \"42AH2210000010\",\t       \"rptm\" : \"Rpt mode\",\t       \"hbfq\" : 60\t\t},\t   \"sts\":{\t       \"time\":202100010001,\t       \"udtm\":202100010001,\t       \"crtm\":202100010001,\t       \"gpss\" : 4,\t       \"gpfc\" : 100,\t       \"plat\":-1.286389,\t       \"plon\":36.817223,\t       \"rcrd\":16+$floor($random()*10),\t       \"trhd\":99+$floor($random()*100),\t       \"tpgd\":69+$floor($random()*1000),\t       \"pgst\":1\t   },\t   \"dta\":{\t       \"aeng\" : 3177+$floor($random()*1000),\t       \"acyc\" : 13+$floor($random()*1000),\t       \"batp\":100+$floor($random()*1000),\t       \"inpp\":200+$floor($random()*1000),\t       \"outp\":100+$floor($random()*1000),\t       \"pckv\":23200+$floor($random()*1000),\t       \"pckc\":6+$floor($random()*1000),\t       \"rsoc\":90+$floor($random()*1000),\t       \"rcap\":4+$floor($random()*1000),\t       \"fccp\":17904+$floor($random()*1000),\t       \"pckt\":110+$floor($random()*1000)\t   },\t   \"dia\" : {\t       \"cv01\" : 3189+$floor($random()*1000),\t       \"cv02\" : 3189+$floor($random()*1000),\t       \"cv03\" : 3189+$floor($random()*1000),\t       \"cv04\" : 3189+$floor($random()*1000),\t       \"cv05\" : 3189+$floor($random()*1000),\t       \"cv06\" : 3189+$floor($random()*1000),\t       \"cv07\" : 3189+$floor($random()*1000),\t       \"cv08\" : 3189+$floor($random()*1000)\t   }\t}",
         "payloadType": "jsonata",
         "x": 230,
         "y": 200,
         "wires": [
-            [
-                "51ad5ad2b58f45b5"
-            ]
+            []
         ]
     },
     {
