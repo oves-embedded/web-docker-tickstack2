@@ -2617,3 +2617,31 @@
 1670314582: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
 1670314582: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
 1670314591: New connection from 172.24.0.5 on port 1884.
+1670314591: New client connected from 172.24.0.5 as Telegraf-Consumer-VsfoB (c1, k60).
+1670316382: Saving in-memory database to /mqtt/data/mosquitto.db.
+1670318183: Saving in-memory database to /mqtt/data/mosquitto.db.
+1670321730: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1670321730: Config loaded from /mqtt/config/mosquitto.conf.
+1670321730: Opening ipv4 listen socket on port 1884.
+1670321730: Opening ipv6 listen socket on port 1884.
+1670321730: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670321735: New connection from 172.24.0.5 on port 1884.
+1670321735: New client connected from 172.24.0.5 as Telegraf-Consumer-P58i5 (c1, k60).
+1670321761: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670323531: Saving in-memory database to /mqtt/data/mosquitto.db.
+1670325332: Saving in-memory database to /mqtt/data/mosquitto.db.
+1670326645: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1670326645: Config loaded from /mqtt/config/mosquitto.conf.
+1670326645: Opening ipv4 listen socket on port 1884.
+1670326645: Opening ipv6 listen socket on port 1884.
+1670326645: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670326676: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670326706: New connection from 172.24.0.6 on port 1884.
+1670329454: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1670329454: Config loaded from /mqtt/config/mosquitto.conf.
+1670329454: Opening ipv4 listen socket on port 1884.
+1670329454: Opening ipv6 listen socket on port 1884.
+1670329454: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670329455: New connection from 172.24.0.6 on port 1884.
+1670329455: New client connected from 172.24.0.6 as Telegraf-Consumer-B7UaI (c1, k60).
+1670329485: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
