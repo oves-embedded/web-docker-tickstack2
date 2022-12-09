@@ -2773,3 +2773,11 @@
 1670557971: New client connected from 172.21.0.5 as Telegraf-Consumer-q77Q3 (c1, k60).
 1670558579: Saving in-memory database to /mqtt/data/mosquitto.db.
 1670558583: mosquitto version 1.4.15 terminating
+1670558588: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1670558588: Config loaded from /mqtt/config/mosquitto.conf.
+1670558588: Opening ipv4 listen socket on port 1884.
+1670558588: Opening ipv6 listen socket on port 1884.
+1670558588: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1670558593: New connection from 172.21.0.5 on port 1884.
+1670558593: New client connected from 172.21.0.5 as Telegraf-Consumer-jsOa0 (c1, k60).
+1670558618: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
