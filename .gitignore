@@ -1,2 +1,3 @@
 .env
 mine.txt
+/data/influxdb
