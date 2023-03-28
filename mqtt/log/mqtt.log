@@ -2928,3 +2928,39 @@
 1679985867: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
 1679985867: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
 1679985954: mosquitto version 1.4.15 terminating
+1679988377: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1679988377: Config loaded from /mqtt/config/mosquitto.conf.
+1679988377: Opening ipv4 listen socket on port 1884.
+1679988377: Opening ipv6 listen socket on port 1884.
+1679988377: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1679988407: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1679990177: Saving in-memory database to /mqtt/data/mosquitto.db.
+1679991978: Saving in-memory database to /mqtt/data/mosquitto.db.
+1679993779: Saving in-memory database to /mqtt/data/mosquitto.db.
+1679995580: Saving in-memory database to /mqtt/data/mosquitto.db.
+1679997381: Saving in-memory database to /mqtt/data/mosquitto.db.
+1679999182: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680000983: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680002784: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680004585: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680005303: Socket error on client local.dd4120c89577.z-motor-bridge, disconnecting.
+1680005334: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005396: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005458: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005520: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005582: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005644: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005706: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005768: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005830: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005892: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005954: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680005985: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680006021: mosquitto version 1.4.15 terminating
+1680006092: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680006092: Config loaded from /mqtt/config/mosquitto.conf.
+1680006092: Opening ipv4 listen socket on port 1884.
+1680006092: Opening ipv6 listen socket on port 1884.
+1680006092: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680006122: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680006359: mosquitto version 1.4.15 terminating
