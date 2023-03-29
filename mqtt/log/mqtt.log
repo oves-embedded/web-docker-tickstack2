@@ -2964,3 +2964,230 @@
 1680006092: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
 1680006122: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
 1680006359: mosquitto version 1.4.15 terminating
+1680006390: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680006390: Config loaded from /mqtt/config/mosquitto.conf.
+1680006390: Opening ipv4 listen socket on port 1884.
+1680006390: Opening ipv6 listen socket on port 1884.
+1680006390: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680006390: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680008191: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680009327: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680009358: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680009389: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680009505: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680009536: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680009567: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680009992: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680010254: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680010284: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010346: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010377: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010393: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680010423: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010485: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010547: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010609: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010671: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010733: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010795: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010857: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010919: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680010981: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011043: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011105: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011167: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011229: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011291: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011353: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011415: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011477: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011539: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011601: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011663: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011694: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011793: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680011834: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680011864: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011926: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680011988: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012050: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012112: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012174: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012236: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012298: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012360: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012422: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012484: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012546: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012608: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012670: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012732: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012794: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012856: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012918: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680012980: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013042: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013104: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013166: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013228: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013290: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013352: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013414: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680013476: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680046928: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680046932: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066009: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066040: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066102: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680066133: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066195: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066257: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066319: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066381: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066443: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066505: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066567: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066629: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066691: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066753: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066815: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066877: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680066939: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067001: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067063: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067125: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067187: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067249: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067311: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067373: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067435: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067497: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067559: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067621: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067683: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067745: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067748: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680067807: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067869: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067931: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680067993: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068055: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068117: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068179: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068241: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068303: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068365: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068427: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068489: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068551: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068613: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068675: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068737: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068799: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068861: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068923: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680068954: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680069549: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680071350: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680071994: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680072025: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072056: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072067: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680072098: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072129: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072140: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680072171: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072202: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072213: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680072244: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680072275: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680073151: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680074952: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680075662: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680075692: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680075723: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680076753: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680077151: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680077182: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680077213: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680077264: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680077295: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680077326: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680077903: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680077934: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680077965: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078428: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078458: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078489: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078529: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078554: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680078560: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078591: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078685: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078715: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078746: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078767: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078798: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078829: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078861: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078892: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078923: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680078944: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680078975: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079006: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079205: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680079236: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079267: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079312: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680079343: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079374: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079489: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680079519: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079550: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079636: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680079667: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680079698: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080084: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680080115: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080146: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080355: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680080475: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680080505: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080536: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080718: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680080748: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080779: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080813: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680080843: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680080874: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680081094: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680081125: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680081156: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680081185: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680081216: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680081247: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680081954: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680081984: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082015: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082130: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680082156: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680082160: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082191: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082488: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680082518: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082549: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082777: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680082808: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680082839: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680083193: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680083224: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680083255: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680083755: Socket error on client local.e8a3578d6078.z-motor-bridge, disconnecting.
+1680083785: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680083816: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680083957: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680085758: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680087559: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680089360: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680091161: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680092963: Saving in-memory database to /mqtt/data/mosquitto.db.
