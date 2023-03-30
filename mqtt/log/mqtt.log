@@ -3191,3 +3191,32 @@
 1680089360: Saving in-memory database to /mqtt/data/mosquitto.db.
 1680091161: Saving in-memory database to /mqtt/data/mosquitto.db.
 1680092963: Saving in-memory database to /mqtt/data/mosquitto.db.
+1680160213: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680160213: Config loaded from /mqtt/config/mosquitto.conf.
+1680160214: Opening ipv4 listen socket on port 1884.
+1680160214: Opening ipv6 listen socket on port 1884.
+1680160214: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680160214: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680160689: mosquitto version 1.4.15 terminating
+1680160723: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680160723: Config loaded from /mqtt/config/mosquitto.conf.
+1680160723: Opening ipv4 listen socket on port 1884.
+1680160723: Opening ipv6 listen socket on port 1884.
+1680160723: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680160753: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680160983: mosquitto version 1.4.15 terminating
+1680161092: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680161092: Config loaded from /mqtt/config/mosquitto.conf.
+1680161092: Opening ipv4 listen socket on port 1884.
+1680161092: Opening ipv6 listen socket on port 1884.
+1680161092: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680161123: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680161209: mosquitto version 1.4.15 terminating
+1680161284: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1680161284: Config loaded from /mqtt/config/mosquitto.conf.
+1680161284: Opening ipv4 listen socket on port 1884.
+1680161284: Opening ipv6 listen socket on port 1884.
+1680161284: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680161284: Connecting bridge z-motor-bridge (mqtt-2.omnivoltaic.com:1883)
+1680161327: mosquitto version 1.4.15 terminating
+1680161677: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
