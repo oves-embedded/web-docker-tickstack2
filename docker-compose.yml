@@ -33,7 +33,7 @@ services:
 
   ##### GRAFANA
   grafana:
-    image: grafana/grafana-oss:7.5.4
+    image: grafana/grafana-oss:9.4.7
     container_name: grafana
     ports:
       - 3000:3000
@@ -57,27 +57,17 @@ services:
   #     - './mosquitto/data:/mosquitto/data'
   #     - './mosquitto/log:/mosquitto/log'
 
-  # mqtt-open2:
-  #   image: eclipse-mosquitto:latest
-  #   container_name: mqtt-open2
+  # mqtt-open:
+  #   image: toke/mosquitto
+  #   container_name: mqtt-open
   #   volumes:
-  #     - './mqtt2.1/config:/mqtt2.1/config'
-  #     - './mqtt2.1/data:/mqtt2.1/data'
-  #     - './mqtt2.1/log:/mqtt2.1/log'
+  #     - './mqtt/config:/mqtt/config'
+  #     - './mqtt/data:/mqtt/data'
+  #     - './mqtt/log:/mqtt/log'
   #   ports:
-  #     - 1884:1884
-
-  mqtt-open:
-    image: toke/mosquitto
-    container_name: mqtt-open
-    volumes:
-      - './mqtt/config:/mqtt/config'
-      - './mqtt/data:/mqtt/data'
-      - './mqtt/log:/mqtt/log'
-    ports:
-      - 1884:1884
-    depends_on:
-      - telegraf
+  #     - 1883:1883
+  #   depends_on:
+  #     - telegraf
 
   ##### NODE-RED
   node-red:
