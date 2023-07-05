@@ -2832,3 +2832,9 @@
 1670918207: New connection from 172.21.0.6 on port 1884.
 1670918207: New client connected from 172.21.0.6 as Telegraf-Consumer-PdRbo (c1, k60).
 1670918445: mosquitto version 1.4.15 terminating
+1688200385: mosquitto version 1.4.15 (build date Sat, 07 Apr 2018 11:13:41 +0100) starting
+1688200385: Config loaded from /mqtt/config/mosquitto.conf.
+1688200385: Opening ipv4 listen socket on port 1884.
+1688200385: Opening ipv6 listen socket on port 1884.
+1688200385: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
+1688200416: Connecting bridge vesselnet-oves-bridge (mqtt-2.omnivoltaic.com:1888)
