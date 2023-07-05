@@ -46,17 +46,6 @@ services:
       - ./data/grafana/grafana:/var/lib/grafana
     # restart: always
 
-  ##### MQTT
-  mqtt:
-    image: eclipse-mosquitto:latest
-    container_name: mqtt-protected
-    ports:
-      - 8883:8883
-    volumes:
-      - './mosquitto/config:/mosquitto/config'
-      - './mosquitto/data:/mosquitto/data'
-      - './mosquitto/log:/mosquitto/log'
-
   mqtt-open:
     image: toke/mosquitto
     container_name: mqtt-open
