@@ -36,18 +36,6 @@ services:
       - ./data/grafana/grafana:/var/lib/grafana
     # restart: always
 
-  mqtt-open:
-    image: toke/mosquitto
-    container_name: mqtt-open
-    volumes:
-      - './mqtt/config:/mqtt/config'
-      - './mqtt/data:/mqtt/data'
-      - './mqtt/log:/mqtt/log'
-    ports:
-      - 1883:1883
-    depends_on:
-      - telegraf
-
   ##### NODE-RED
   node-red:
     image: nodered/node-red:latest
