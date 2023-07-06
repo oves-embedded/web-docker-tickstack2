@@ -10,34 +10,34 @@ If you are using windows download and install git on your pc. You can download g
 https://git-scm.com/downloads
 On windows, have Gitbash or powershell to run commands on the terminal.
 
-### Installing and Running the Tickstack
+### Installing the whole Stack from docker
 
-i) On your terminal(gitbash or powershell), clone the repo using the code
+1. On your terminal(gitbash or powershell), clone the repo using the code
 
 ```sh
 git clone https://github.com/oves-embedded/web-docker-tickStack.git
 ```
 
-ii) Once you have cloned the repo, change the directory to the cloned repo
+2. Once you have cloned the repo, change the directory to the cloned repo
 
 ```sh
 cd web-docker-tickstack
 ```
 
-iii) Run the command for the first time to start of the project
+3. Run the command for the first time to start of the project
 
 ```sh
 docker-compose up -d
 ```
 
-iv) Run the command to check if the containers have started
+3. Run the command to check if the containers have started
 
 ```sh
 docker-compose ps
 ```
 
 N/B
-- The first time you run this command it will take sometime to finish downloading the images.
+The first time you run this command it will take sometime to finish downloading the images.
 
 ### Ports
 
@@ -86,7 +86,6 @@ N/B
       User: telegraf
       Password: telegraf
     ```
-    
   - Save & Test
   - You will get an acknowledge message if everything is set correctly.
   - You can now create your first dashboard while fetching data from influxdb.
@@ -112,35 +111,14 @@ N/B
               Header: Authorization
               Value: Bearer {Accesstoken}
         ```
-
+   
     - Save & Test
     - You will get an acknowledge message if everything is set correctly.
     - You can now create your first dashboard while fetching data from GraphQL.
 
-#### How to create A dashboard on Grafana
-- Once you have logged in, on the sidebar under configurations open dashboards page.
-
-  ![grafana-dash](/images/grafana-dash.JPG)
-
-- On Dashboards, click on new, then select new dashboard to create a dashboard.
-
-  ![dashboard-new](/images/dashboard-new.JPG)
-
-- On the New Dashboard page, click Add a new panel to create a panel.
-
-  ![dashboard-addpanel](/images/dashboard-addpanel.JPG)
-
-- On the add panel page, you will get to select the desired panel you want from panel list.
-- For this, we will use a time series panel.
-- After selecting the a timeseries dashboard, add the query to display like this:
-
-  ![dashboard-query2](/images/dashboard-query2.JPG)
-
-- After adding the query, you will save the dashboard for the changes to be saved.
-
 ## Getting latest changes from repository
 
-- When new changes have been pushed to the repository, you will need to pull them to your local environment to get the new changes.
+- When new changes have been pushed to the repository, you will need to pull them to your local enviroment to get the new changes.
 - To get new changes use the below commands:
   - Use this command to pull changes from github
     ```sh
