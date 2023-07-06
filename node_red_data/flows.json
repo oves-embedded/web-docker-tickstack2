@@ -406,6 +406,33 @@
         "sessionExpiry": ""
     },
     {
+        "id": "af011a017e781e6b",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "mqtt-factory.omnivoltaic.com",
+        "port": "18883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
         "id": "a5ebf26292eaf8f2",
         "type": "inject",
         "z": "94fa79fc5652e520",
@@ -453,12 +480,14 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "{\t   \"att\":{\t       \"opid\":\"48AH2104000030\",\t       \"ppid\":\"48AH2104000030<<<<<<\",\t       \"flid\":\"\",\t       \"frmv\":\"3.1.2\"\t   },\t   \"sts\":{\t       \"time\":202100010001+$floor($random()*100),\t       \"udtm\":202100010001+$floor($random()*100),\t       \"crtm\":202100010001+$floor($random()*100),\t       \"gpss\" : 4,\t       \"gpfc\" : 100,\t       \"plat\":22+$random()*10,\t       \"plon\":114+$random()*10,\t       \"rcrd\":16+$floor($random()*2),\t       \"trhd\":99+$floor($random()*2),\t       \"tpgd\":69+$floor($random()*2),\t       \"pgst\":1+$floor($random()*2)\t   },\t   \"dta\":{\t       \"aeng\" : 3177+$floor($random()*10),\t       \"acyc\" : 13+$floor($random()*2),\t       \"batp\":100+$floor($random()*50),\t       \"inpp\":200+$floor($random()*50),\t       \"outp\":100+$floor($random()*50),\t       \"pckv\":23200+$floor($random()*1000),\t       \"pckc\":6+$floor($random()*10),\t       \"rsoc\":90+$floor($random()*10),\t       \"rcap\":4+$floor($random()*10),\t       \"fccp\":17904+$floor($random()*10),\t       \"pckt\":110+$floor($random()*10)\t   },\t   \"dia\" : {\t       \"cv01\" : 3189+$floor($random()*1000),\t       \"cv02\" : 3189+$floor($random()*1000),\t       \"cv03\" : 3189+$floor($random()*1000),\t       \"cv04\" : 3189+$floor($random()*1000),\t       \"cv05\" : 3189+$floor($random()*1000),\t       \"cv06\" : 3189+$floor($random()*1000),\t       \"cv07\" : 3189+$floor($random()*1000),\t       \"cv08\" : 3189+$floor($random()*1000)\t   }\t}",
+        "payload": "{\t   \"att\":{\t       \"opid\":\"48AH2104000030\",\t       \"ppid\":\"48AH2104000030<<<<<<\",\t       \"flid\":\"\",\t       \"frmv\":\"3.1.2\"\t   },\t   \"sts\":{\t       \"time\":202100010001+$floor($random()*100),\t       \"udtm\":202100010001+$floor($random()*100),\t       \"crtm\":202100010001+$floor($random()*100),\t       \"gpss\" : 4,\t       \"gpfc\" : 100,\t       \"plat\": -1.301307,\t       \"plon\": 36.824168,\t       \"rcrd\":16+$floor($random()*2),\t       \"trhd\":99+$floor($random()*2),\t       \"tpgd\":69+$floor($random()*2),\t       \"pgst\":1+$floor($random()*2)\t   },\t   \"dta\":{\t       \"aeng\" : 3177+$floor($random()*10),\t       \"acyc\" : 13+$floor($random()*2),\t       \"batp\":100+$floor($random()*50),\t       \"inpp\":200+$floor($random()*50),\t       \"outp\":100+$floor($random()*50),\t       \"pckv\":23200+$floor($random()*1000),\t       \"pckc\":6+$floor($random()*10),\t       \"rsoc\":90+$floor($random()*10),\t       \"rcap\":4+$floor($random()*10),\t       \"fccp\":17904+$floor($random()*10),\t       \"pckt\":110+$floor($random()*10)\t   },\t   \"dia\" : {\t       \"cv01\" : 3189+$floor($random()*1000),\t       \"cv02\" : 3189+$floor($random()*1000),\t       \"cv03\" : 3189+$floor($random()*1000),\t       \"cv04\" : 3189+$floor($random()*1000),\t       \"cv05\" : 3189+$floor($random()*1000),\t       \"cv06\" : 3189+$floor($random()*1000),\t       \"cv07\" : 3189+$floor($random()*1000),\t       \"cv08\" : 3189+$floor($random()*1000)\t   }\t}",
         "payloadType": "jsonata",
         "x": 350,
         "y": 120,
         "wires": [
-            []
+            [
+                "ad4784c6f6cfe4fb"
+            ]
         ]
     },
     {
@@ -510,7 +539,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "3f95c6440d61a454",
+        "broker": "af011a017e781e6b",
         "x": 670,
         "y": 120,
         "wires": []

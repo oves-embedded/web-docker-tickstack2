@@ -406,6 +406,33 @@
         "sessionExpiry": ""
     },
     {
+        "id": "af011a017e781e6b",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "mqtt-factory.omnivoltaic.com",
+        "port": "18883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
         "id": "a5ebf26292eaf8f2",
         "type": "inject",
         "z": "94fa79fc5652e520",
@@ -458,7 +485,9 @@
         "x": 350,
         "y": 120,
         "wires": [
-            []
+            [
+                "ad4784c6f6cfe4fb"
+            ]
         ]
     },
     {
@@ -510,7 +539,7 @@
         "userProps": "",
         "correl": "",
         "expiry": "",
-        "broker": "3f95c6440d61a454",
+        "broker": "af011a017e781e6b",
         "x": 670,
         "y": 120,
         "wires": []
