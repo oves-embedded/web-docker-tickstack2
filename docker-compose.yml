@@ -21,16 +21,6 @@ services:
     volumes:
       - ./telegraf.conf:/etc/telegraf/telegraf.conf
 
-  ##### CHRONOGRAF
-  chronograf:
-    image: chronograf
-    container_name: chronograf
-    ports:
-      - 8888:8888
-    command: [ "chronograf", "--influxdb-url=http://influxdb:8086" ]
-    links:
-      - "influxdb:influxdb"
-
   ##### GRAFANA
   grafana:
     image: grafana/grafana-oss:9.4.7
@@ -45,17 +35,6 @@ services:
     volumes:
       - ./data/grafana/grafana:/var/lib/grafana
     # restart: always
-
-  ##### MQTT
-  mqtt:
-    image: eclipse-mosquitto:latest
-    container_name: mqtt-protected
-    ports:
-      - 8883:8883
-    volumes:
-      - './mosquitto/config:/mosquitto/config'
-      - './mosquitto/data:/mosquitto/data'
-      - './mosquitto/log:/mosquitto/log'
 
   mqtt-open:
     image: toke/mosquitto
